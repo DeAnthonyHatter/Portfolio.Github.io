@@ -253,7 +253,7 @@ export default function Layout() {
                             <div className="portfolio-image"><FaPalette /></div>
                             <div className="portfolio-content">
                                 <h3>Creative Portfolios</h3>
-                                <p>Professional business websites with content management systems, contact forms, and corporate branding integration.</p>
+                                <p>Stunning portfolio websites for artists, designers, and creative professionals with interactive galleries and smooth animations.</p>
                                 <div className="portfolio-tech">
                                     <span className="tech-tag">ReactJS</span>
                                     <span className="tech-tag">SCSS</span>

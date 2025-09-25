@@ -302,7 +302,7 @@ export default function Layout() {
                             </div>
                         </div>
                     </div>
-                    <a href="#" className="cta-btn">Get Started Today</a>
+                    <a href="href="mailto:hatterwballc@gmail.com?subject=Web Development Inquiry" className="cta-btn">Get Started Today</a>
                 </div>
             </section>
 
